@@ -1,3 +1,3 @@
 # Food-Studio 
 
-this website is made with php and use resorent
+    this website is made with php and
